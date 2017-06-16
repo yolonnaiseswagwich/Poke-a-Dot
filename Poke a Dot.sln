@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poke a Dot.Plugins", "Poke a Dot.Plugins.csproj", "{CAACBDDF-6E07-EF7F-3454-8C955A75B761}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poke a Dot", "Poke a Dot.csproj", "{1E23AF7E-6E21-C2F5-3F60-3D97F6B6CB34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poke a Dot.Editor.Plugins", "Poke a Dot.Editor.Plugins.csproj", "{CDBEFD64-E4FE-ACAE-3251-5E463F12E204}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAACBDDF-6E07-EF7F-3454-8C955A75B761}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAACBDDF-6E07-EF7F-3454-8C955A75B761}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAACBDDF-6E07-EF7F-3454-8C955A75B761}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAACBDDF-6E07-EF7F-3454-8C955A75B761}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E23AF7E-6E21-C2F5-3F60-3D97F6B6CB34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E23AF7E-6E21-C2F5-3F60-3D97F6B6CB34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E23AF7E-6E21-C2F5-3F60-3D97F6B6CB34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E23AF7E-6E21-C2F5-3F60-3D97F6B6CB34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDBEFD64-E4FE-ACAE-3251-5E463F12E204}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDBEFD64-E4FE-ACAE-3251-5E463F12E204}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDBEFD64-E4FE-ACAE-3251-5E463F12E204}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDBEFD64-E4FE-ACAE-3251-5E463F12E204}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
